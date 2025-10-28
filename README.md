@@ -1,6 +1,3 @@
-# AUTONOMOUS-WATER-MANAGEMENT-SYSTEM
-**Summary**
-
 The "Autonomous Water Management System" is a sophisticated and innovative project developed by a team of students at the Islamic University of Technology. It addresses the critical global issues of water scarcity, wastage from tank overflows, and underutilization of rainwater. The system represents a paradigm shift in water conservation by seamlessly integrating sensor technology, IoT connectivity, and intelligent automation to create a holistic, efficient, and user-aware water management solution.
 
 **1\. Problem Statement and Core Objectives**
